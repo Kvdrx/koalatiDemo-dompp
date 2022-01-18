@@ -1,4 +1,26 @@
 # koalatiDemo-dompp
 
 
-Ceci un une demo des tests ecrit sur le site Koalati avec la librairie DOM-PP 
+This is a demo of the tests written on the Koalati website with the DOM-PP library
+
+
+Installing and building DOM-PP with KOALATI 
+-------------------------------------------
+
+## Git Clone
+
+```bash
+git clone https://github.com/Kvdrx/koalatiDemo-dompp.git
+```
+
+## Install
+
+```bash
+npm install  
+```
+
+## Testing
+
+```bash
+npm test
+```
